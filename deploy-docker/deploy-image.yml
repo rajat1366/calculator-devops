@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of calculator
+  hosts: all
+  tasks:
+    - name: Pull junit devops image
+      docker_image:
+        name: rajatkumariiitb/cal-devops
+        source: pull
