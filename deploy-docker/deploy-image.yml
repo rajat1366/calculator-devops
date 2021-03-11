@@ -6,8 +6,4 @@
       docker_image:
         name: rajatkumariiitb/cal-devops
         source: pull
-    - name: Create a new file
-      file:
-          path: ~/new.txt
-          state: touch
 
