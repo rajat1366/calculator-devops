@@ -8,5 +8,5 @@
         source: pull
     - name: Create a new file
           file:
-              path: /home/new.txt
+              path: ~/newfile.txt
               state: touch
