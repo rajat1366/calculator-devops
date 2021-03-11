@@ -6,7 +6,5 @@
       docker_image:
         name: rajatkumariiitb/cal-devops
         source: pull
-    - name: Creating an empty file
-        file:
-          path: "/home/test_file.txt"
-          state: touch
+    - name: Create a new file
+          file: path=/home/new.txt state=touch
