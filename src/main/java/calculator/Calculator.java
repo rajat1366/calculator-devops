@@ -16,7 +16,7 @@ public class Calculator {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
-        Scanner scannerInput = new Scanner(System.in);
+
         double number1, number2;
         int number;
         while(true){
@@ -28,24 +28,27 @@ public class Calculator {
                                 "Press any other key to exit\n" +
                                 "Enter your choice: ");
             int choice;
+
+
             try {
 
                 choice = scanner.nextInt();
             } catch (InputMismatchException error) {
-
-                logger.error("Invalid input for Choice");
-                return;
+                logger.warn("[INPUT ERROR] - Invalid input for Choice");
+                scanner.next();
+                continue;
             }
             switch (choice) {
                 case 1:
                     // do Square Root
                     try {
                         System.out.print("Enter number : ");
-                        number1 = scannerInput.nextDouble();
+                        number1 = scanner.nextDouble();
                         calculator.squareRoot(number1);
 
                     } catch (InputMismatchException error) {
-                        logger.error("Invalid input, Entered input is not a number");
+                        logger.error("[INPUT ERROR] - Invalid input, Entered input is not a number");
+                        scanner.next();
                     }
                     break;
                 case 2:
@@ -53,11 +56,12 @@ public class Calculator {
 
                     try {
                         System.out.print("Enter number : ");
-                        number = scannerInput.nextInt();
+                        number = scanner.nextInt();
                         calculator.factorial(number);
 
                     } catch (InputMismatchException error) {
-                        logger.error("Invalid input, Entered input is not a Integer");
+                        logger.error("[INPUT ERROR] - Invalid input, Entered input is not a Integer");
+                        scanner.next();
                     }
                     break;
 
@@ -65,11 +69,12 @@ public class Calculator {
                     // do Natural Log
                     try {
                         System.out.print("Enter number : ");
-                        number1 = scannerInput.nextDouble();
+                        number1 = scanner.nextDouble();
                         calculator.naturalLog(number1);
 
                     } catch (InputMismatchException error) {
-                        logger.error("Invalid input, Entered input is not a number");
+                        logger.error("[INPUT ERROR] - Invalid input, Entered input is not a number");
+                        scanner.next();
                     }
 
                     break;
@@ -77,13 +82,14 @@ public class Calculator {
                     // do Power function
                     try {
                         System.out.print("Enter First number : ");
-                        number1 = scannerInput.nextDouble();
+                        number1 = scanner.nextDouble();
                         System.out.print("Enter Second number : ");
-                        number2 = scannerInput.nextDouble();
+                        number2 = scanner.nextDouble();
                         calculator.power(number1,number2);
 
                     } catch (InputMismatchException error) {
-                        logger.error("Invalid input, Entered input is not a number");
+                        logger.error("[INPUT ERROR] - Invalid input, Entered input is not a number");
+                        scanner.next();
                     }
 
                     break;

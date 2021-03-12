@@ -1,120 +1,37 @@
-11/Mar/2021:14:24:30 166 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:14:24:30 166 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:14:27:28 003 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:14:27:28 003 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:14:30:02 985 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:14:30:02 993 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:14:40:19 648 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:14:40:19 648 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:14:40:40 616 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 4
-11/Mar/2021:14:40:40 632 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 24
-11/Mar/2021:14:56:31 984 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0to power3.0
-11/Mar/2021:14:56:31 989 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 8.0
-11/Mar/2021:14:57:45 321 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a Integer
-11/Mar/2021:14:57:45 321 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:14:58:30 899 [Calculator.java] [WARN] calculator.Calculator Invalid input, Entered input is not a Integer
-11/Mar/2021:14:58:30 911 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:15:00:36 055 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:00:36 064 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:15:00:59 454 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 5.0
-11/Mar/2021:15:00:59 464 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.23606797749979
-11/Mar/2021:15:01:03 775 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:01:03 775 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
-11/Mar/2021:15:02:12 944 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:02:17 924 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:04:15 773 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 128.0
-11/Mar/2021:15:04:15 781 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 11.313708498984761
-11/Mar/2021:15:04:23 464 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 10
-11/Mar/2021:15:04:23 474 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 3628800
-11/Mar/2021:15:04:32 214 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 1024.0
-11/Mar/2021:15:04:32 214 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 6.931471805599453
-11/Mar/2021:15:04:41 434 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 10.0
-11/Mar/2021:15:04:41 434 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 1024.0
-11/Mar/2021:15:04:52 754 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:05:00 323 [Calculator.java] [WARN] calculator.Calculator Invalid input, Entered input is not a Integer
-11/Mar/2021:15:05:07 546 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:05:18 614 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
-11/Mar/2021:15:49:47 712 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a Integer
-11/Mar/2021:15:49:55 069 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a Integer
-11/Mar/2021:15:50:10 685 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 10
-11/Mar/2021:15:50:10 693 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 3628800
-11/Mar/2021:15:50:17 219 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 100.0
-11/Mar/2021:15:50:17 219 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 4.605170185988092
-11/Mar/2021:15:50:25 089 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 4.0
-11/Mar/2021:15:50:25 089 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 16.0
-11/Mar/2021:15:51:41 227 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:15:51:41 235 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:15:51:41 235 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:15:51:41 235 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:15:52:33 083 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:15:52:33 092 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:15:52:33 099 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:15:52:33 099 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:15:53:53 005 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:15:53:53 012 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:15:53:53 012 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:15:53:53 012 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:15:53:53 012 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:15:53:53 012 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:15:53:53 012 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:15:53:53 020 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:18:39 194 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 10.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.302585092994046
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:18:39 203 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:16:18:39 214 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:18:39 216 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 4.0
-11/Mar/2021:16:18:39 217 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 1.3862943611198906
-11/Mar/2021:16:18:39 217 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 10
-11/Mar/2021:16:18:39 229 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 3628800
-11/Mar/2021:16:18:39 229 [Calculator.java] [INFO] calculator.Calculator [Power] - 4.0 to power 2.0
-11/Mar/2021:16:18:39 234 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 16.0
-11/Mar/2021:16:18:39 234 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 10.0
-11/Mar/2021:16:18:39 234 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 1024.0
-11/Mar/2021:16:44:08 182 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:44:08 186 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:44:08 187 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:44:08 187 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:44:08 188 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:16:44:08 188 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:44:08 188 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 10.0
-11/Mar/2021:16:44:08 189 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.302585092994046
-11/Mar/2021:16:44:08 189 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:44:08 189 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:44:08 190 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:16:44:08 190 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:44:08 190 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 4.0
-11/Mar/2021:16:44:08 191 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 1.3862943611198906
-11/Mar/2021:16:44:08 191 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 10
-11/Mar/2021:16:44:08 196 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 3628800
-11/Mar/2021:16:44:08 197 [Calculator.java] [INFO] calculator.Calculator [Power] - 4.0 to power 2.0
-11/Mar/2021:16:44:08 197 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 16.0
-11/Mar/2021:16:44:08 198 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 10.0
-11/Mar/2021:16:44:08 198 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 1024.0
-11/Mar/2021:16:49:57 704 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:49:57 708 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:49:57 709 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:49:57 709 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:49:57 710 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:16:49:57 710 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:49:57 711 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 10.0
-11/Mar/2021:16:49:57 711 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.302585092994046
-11/Mar/2021:16:49:57 711 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.0
-11/Mar/2021:16:49:57 712 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.0
-11/Mar/2021:16:49:57 712 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 4.3
-11/Mar/2021:16:49:57 712 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 2.073644135332772
-11/Mar/2021:16:49:57 713 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 4.0
-11/Mar/2021:16:49:57 713 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 1.3862943611198906
-11/Mar/2021:16:49:57 714 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 10
-11/Mar/2021:16:49:57 718 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 3628800
-11/Mar/2021:16:49:57 719 [Calculator.java] [INFO] calculator.Calculator [Power] - 4.0 to power 2.0
-11/Mar/2021:16:49:57 719 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 16.0
-11/Mar/2021:16:49:57 720 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 10.0
-11/Mar/2021:16:49:57 720 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 1024.0
+12/Mar/2021:15:39:08 859 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 123.0
+12/Mar/2021:15:39:08 859 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 11.090536506409418
+12/Mar/2021:15:39:13 030 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 12
+12/Mar/2021:15:39:13 030 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 479001600
+12/Mar/2021:15:39:17 253 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 15.0
+12/Mar/2021:15:39:17 253 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.70805020110221
+12/Mar/2021:15:39:23 097 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 6.0
+12/Mar/2021:15:39:23 097 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 64.0
+12/Mar/2021:15:39:37 037 [Calculator.java] [WARN] calculator.Calculator [INPUT ERROR] - Invalid input for Choice
+12/Mar/2021:15:39:42 665 [Calculator.java] [WARN] calculator.Calculator [INPUT ERROR] - Invalid input for Choice
+12/Mar/2021:16:06:21 856 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 100.0
+12/Mar/2021:16:06:21 859 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 10.0
+12/Mar/2021:16:06:25 640 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 25.0
+12/Mar/2021:16:06:25 640 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 5.0
+12/Mar/2021:16:06:28 737 [Calculator.java] [WARN] calculator.Calculator [INPUT ERROR] - Invalid input for Choice
+12/Mar/2021:16:06:32 969 [Calculator.java] [ERROR] calculator.Calculator [INPUT ERROR] - Invalid input, Entered input is not a number
+12/Mar/2021:16:06:36 003 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 5
+12/Mar/2021:16:06:36 009 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 120
+12/Mar/2021:16:06:38 475 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 6
+12/Mar/2021:16:06:38 476 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 720
+12/Mar/2021:16:06:42 601 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 7
+12/Mar/2021:16:06:42 601 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 5040
+12/Mar/2021:16:06:44 284 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 2
+12/Mar/2021:16:06:44 285 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 2
+12/Mar/2021:16:06:47 110 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 14.0
+12/Mar/2021:16:06:47 110 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.6390573296152584
+12/Mar/2021:16:06:49 968 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 15.0
+12/Mar/2021:16:06:49 968 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.70805020110221
+12/Mar/2021:16:06:53 208 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 16.0
+12/Mar/2021:16:06:53 209 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 2.772588722239781
+12/Mar/2021:16:06:56 922 [Calculator.java] [INFO] calculator.Calculator [Power] - 2.0 to power 6.0
+12/Mar/2021:16:06:56 922 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 64.0
+12/Mar/2021:16:07:00 582 [Calculator.java] [INFO] calculator.Calculator [Power] - 5.0 to power 6.0
+12/Mar/2021:16:07:00 583 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 15625.0
+12/Mar/2021:16:07:05 188 [Calculator.java] [INFO] calculator.Calculator [Power] - 3.0 to power 8.0
+12/Mar/2021:16:07:05 189 [Calculator.java] [INFO] calculator.Calculator [RESULT - POWER] - 6561.0
+12/Mar/2021:16:07:08 167 [Calculator.java] [ERROR] calculator.Calculator [INPUT ERROR] - Invalid input, Entered input is not a number

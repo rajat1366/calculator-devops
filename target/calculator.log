@@ -1,0 +1,15 @@
+11/Mar/2021:16:51:08 528 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 10.0
+11/Mar/2021:16:51:08 531 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 3.1622776601683795
+12/Mar/2021:01:43:14 007 [Calculator.java] [INFO] calculator.Calculator [SQAURE ROOT] - 100.0
+12/Mar/2021:01:43:14 047 [Calculator.java] [INFO] calculator.Calculator [RESULT - SQUARE ROOT] - 10.0
+12/Mar/2021:01:43:21 960 [Calculator.java] [INFO] calculator.Calculator [FACTORIAL] - 8
+12/Mar/2021:01:43:21 992 [Calculator.java] [INFO] calculator.Calculator [RESULT - FACTORIAL] - 40320
+12/Mar/2021:01:43:32 042 [Calculator.java] [INFO] calculator.Calculator [NATURAL LOG ] - 135.0
+12/Mar/2021:01:43:32 042 [Calculator.java] [INFO] calculator.Calculator [RESULT - NATURAL LOG] - 4.90527477843843
+12/Mar/2021:01:51:35 701 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a Integer
+12/Mar/2021:01:51:44 856 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+12/Mar/2021:01:51:52 750 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+12/Mar/2021:01:51:55 095 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+12/Mar/2021:01:51:57 550 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
+12/Mar/2021:01:52:01 396 [Calculator.java] [ERROR] calculator.Calculator Invalid input for Choice
+12/Mar/2021:01:52:21 772 [Calculator.java] [ERROR] calculator.Calculator Invalid input, Entered input is not a number
